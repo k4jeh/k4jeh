@@ -2,7 +2,7 @@
 
 📖 Apaixonado por códigos, lógica e conhecimento.
 
-⚙️ Tecnologias em foco: **HTML5 | CSS3 | Javacript | TypeScript | React | Jest | React Native | Figma | Node**.
+⚙️ Tecnologias em foco: **HTML5 | CSS3 | Javacript | TypeScript | React | React Native | Figma | Node**.
 
 🎓 Estudante de Ciência da Computação da UFPI com 75% do curso concluído com foco em Desenvolvimento Front-End.
 
